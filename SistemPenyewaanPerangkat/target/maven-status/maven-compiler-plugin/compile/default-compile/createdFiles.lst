@@ -1,0 +1,5 @@
+Main\SistemPenyewaanPerangkat.class
+Model\Kamera.class
+Model\Drone.class
+Logic\KelolaPerangkat.class
+Model\Perangkat.class
