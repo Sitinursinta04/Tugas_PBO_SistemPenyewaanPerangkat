@@ -232,9 +232,7 @@ Dengan struktur tersebut, `Kamera` dan `Drone` memiliki hubungan pewarisan denga
 
 ### 5.1 Menu Utama
 
-**Screenshot:**
-
-> Letakkan screenshot tampilan menu utama program di sini.
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Matkul/Screenshot%202026-09-16%20222051.png?raw=true)
 
 **Keterangan:**  
 Menu utama digunakan sebagai tampilan awal program dan berisi pilihan untuk mengelola data perangkat. Pengguna dapat memilih menu untuk menambah, menampilkan, mengubah, atau menghapus data perangkat.
@@ -243,9 +241,7 @@ Menu utama digunakan sebagai tampilan awal program dan berisi pilihan untuk meng
 
 ### 5.2 Tambah Kamera
 
-**Screenshot:**
-
-> Letakkan screenshot saat proses penambahan data Kamera di sini.
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Matkul/Screenshot%202026-09-16%20222344.png?raw=true)
 
 **Keterangan:**  
 Menu Tambah Kamera digunakan untuk memasukkan data perangkat Kamera, seperti ID perangkat, nama perangkat, harga sewa, status, resolusi, dan jenis kamera.
@@ -254,9 +250,7 @@ Menu Tambah Kamera digunakan untuk memasukkan data perangkat Kamera, seperti ID 
 
 ### 5.3 Tambah Drone
 
-**Screenshot:**
-
-> Letakkan screenshot saat proses penambahan data Drone di sini.
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Matkul/Screenshot%202026-09-16%20222509.png?raw=true)
 
 **Keterangan:**  
 Menu Tambah Drone digunakan untuk memasukkan data perangkat Drone, seperti ID perangkat, nama perangkat, harga sewa, status, resolusi kamera, dan durasi terbang.
@@ -265,9 +259,7 @@ Menu Tambah Drone digunakan untuk memasukkan data perangkat Drone, seperti ID pe
 
 ### 5.4 Tampilkan Semua Perangkat
 
-**Screenshot:**
-
-> Letakkan screenshot saat data perangkat ditampilkan di sini.
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Matkul/Screenshot%202026-09-16%20223033.png?raw=true)
 
 **Keterangan:**  
 Menu Tampilkan Semua Perangkat digunakan untuk melihat seluruh data perangkat yang telah ditambahkan ke dalam sistem, baik perangkat Kamera maupun Drone.
@@ -276,9 +268,8 @@ Menu Tampilkan Semua Perangkat digunakan untuk melihat seluruh data perangkat ya
 
 ### 5.5 Ubah Status Perangkat
 
-**Screenshot:**
-
-> Letakkan screenshot saat proses mengubah status perangkat di sini.
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Matkul/Screenshot%202026-09-16%20223136.png?raw=true)
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Matkul/Screenshot%202026-09-16%20223150.png?raw=true)
 
 **Keterangan:**  
 Menu Ubah Status Perangkat digunakan untuk mengubah status perangkat berdasarkan ID perangkat. Fitur ini dapat digunakan ketika status suatu perangkat mengalami perubahan.
@@ -287,11 +278,14 @@ Menu Ubah Status Perangkat digunakan untuk mengubah status perangkat berdasarkan
 
 ### 5.6 Hapus Perangkat
 
-**Screenshot:**
-
-> Letakkan screenshot saat proses menghapus perangkat di sini.
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Matkul/Screenshot%202026-09-16%20223214.png?raw=true)
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Matkul/Screenshot%202026-09-16%20223228.png?raw=true)
 
 **Keterangan:**  
 Menu Hapus Perangkat digunakan untuk menghapus data perangkat berdasarkan ID perangkat yang dipilih.
 
 ---
+
+### 5.7 Keluar dari program
+
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Matkul/Screenshot%202026-09-16%20223248.png?raw=true)
