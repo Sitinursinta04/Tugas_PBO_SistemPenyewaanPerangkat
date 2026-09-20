@@ -120,6 +120,7 @@ Model
     ├── durasiTerbang
     └── tampilkanInfo()
 ```
+![alt text](https://github.com/Sitinursinta04/PRAKTIKUM_PBO/blob/main/Matkul/Screenshot%202026-09-20%20202530.png?raw=true)
 
 Selain class pada package `Model`, program juga memiliki:
 
